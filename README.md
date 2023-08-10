@@ -1,5 +1,7 @@
 ### Дипломная работа
 
 Мой дипломный проект, выполненный в Яндекс Практикуме, в рамках обучения по программе "Системный аналитик". Была поставлена задача разработать требования к приложению Stets Home для управления умным домом. На основании записи интервью с заказчиком и пользователями были сформулированы требования к приложению и составлена карта пользовательских историй:
-Download <a href="https://drive.google.com/file/d/1s56wzH3xZg9lrXW-w1NyrHcmlZpoZzTW/view?usp=sharing" target="_blank">Fastvideo SDK (demo) for Windows-10, 64-bit</a> (valid till June 15, 2024)
+
+Download <a href="https://miro.com/app/board/uXjVML_20M4=/" target="_blank">User Story Map for Stets Home</a> (Miro)
+
 создание интерактивного прототипа пользовательского интерфейса приложения и демонстрация прототипа заказчику.
