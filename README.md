@@ -5,7 +5,7 @@
 - Карта пользовательских историй, критерии и сценарии приемки:
 <a href="https://miro.com/app/board/uXjVML_20M4=/" target="_blank">User Story Map for Stets Home</a> (Miro)
 
-- DFD и ER диаграммы <a href="https://github.com/NadiaSerzhenko/NadiaSerzhenko/blob/main/Stets-Home_DFD-ER_NSer_v2.drawio" target="_blank">Stets-Home_DFD-ER (.drawio)</a>, (эти же диаграммы в формате HTML для просмотра: контекстная DFD, логическая DFD, ER-диаграмма)
+- <a href="https://github.com/NadiaSerzhenko/NadiaSerzhenko/blob/main/Stets-Home_DFD-ER_NSer_v2.drawio" target="_blank">DFD- и ER-диаграммы</a> (.drawio)
 
 - <a href="https://github.com/NadiaSerzhenko/NadiaSerzhenko/blob/main/Data-dictionary_Stets-home_NSer_v2.docx" target="_blank">Словарь данных</a> (.docx)
 
