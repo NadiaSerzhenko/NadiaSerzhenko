@@ -10,7 +10,7 @@
 - <a href="https://github.com/NadiaSerzhenko/NadiaSerzhenko/blob/main/Vita_appoint_BPMN_UML_state-machine-diagram.drawio" target="_blank">BPMN и UML процесса записи на прием</a> (.drawio)
 
 Модели as-is и to-be процесса «Приём у врача в медицинской клинике Вита» в нотации BPMN 
-- <a href="https://github.com/NadiaSerzhenko/NadiaSerzhenko/blob/main/Vita_pat-encounter_BPMN_as-is_to-be_v2.drawio" target="_blank">DFD- и ER-диаграммы</a> (.drawio)
+- <a href="https://github.com/NadiaSerzhenko/NadiaSerzhenko/blob/main/Vita_pat-encounter_BPMN_as-is_to-be_v2.drawio" target="_blank">BPMN прием у врача</a> (.drawio)
 
 ### Приложение для управления умным домом
 
