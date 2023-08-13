@@ -5,6 +5,8 @@
 Карта пользовательских историй, критерии и сценарии приемки:
 <a href="https://miro.com/app/board/uXjVML_20M4=/" target="_blank">User Story Map for Stets Home</a> (Miro)
 
+DFD и ER диаграммы в формате drawio <a href="https://github.com/NadiaSerzhenko/NadiaSerzhenko/blob/main/Stets-Home_DFD-ER_NSer_v2.drawio" target="_blank">Stets-Home_DFD-ER</a>, (эти же диаграммы в формате HTML для просмотра: контекстная DFD, логическая DFD, ER-диаграмма)
+
 Интерактивный прототип пользовательского интерфейса приложения в Figma:
 <a href="https://www.figma.com/file/NHbv4c2qchM4iNNiyqYO5k/Prototype_Stets_Home_NSer_v1?type=design&node-id=0%3A1&t=sA3u8x7dEOxUu8Xa-1" target="_blank">Interactive Prototype for Stets Home</a> (Figma)
 
